@@ -1,0 +1,15 @@
+﻿  argparser.cpp
+argparser.cpp(36): warning C4101: e: неиспользованная локальная переменная
+  common.cpp
+  common_platform.cpp
+  configparser.cpp
+d:\repo\mgr-sound\mgr-sound\configparser.h(23): warning C4267: return: преобразование из "size_t" в "uint16_t"; возможна потеря данных
+configparser.cpp(55): warning C4244: инициализация: преобразование "lua_Number" в "int", возможна потеря данных
+configparser.cpp(125): warning C4244: =: преобразование "lua_Number" в "int", возможна потеря данных
+configparser.cpp(153): warning C4244: =: преобразование "lua_Number" в "int", возможна потеря данных
+  fmodsystem.cpp
+  main.cpp
+d:\repo\mgr-sound\mgr-sound\configparser.h(23): warning C4267: return: преобразование из "size_t" в "uint16_t"; возможна потеря данных
+main.cpp(134): warning C4244: инициализация: преобразование "uint32_t" в "float", возможна потеря данных
+  shm2mgr.cpp
+libboost_program_options-vc141-mt-1_64.lib(value_semantic.obj) : fatal error LNK1112: тип компьютера модуля "X86" противоречит типу целевого компьютера "x64"

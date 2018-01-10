@@ -1,0 +1,15 @@
+﻿  shm2mgr.cpp
+d:\repo\mgr-sound\mgr-sound\shm2mgr.h(3): fatal error C1083: Не удается открыть файл включение: boost\interprocess\windows_shared_memory.hpp: No such file or directory
+  main.cpp
+d:\repo\mgr-sound\mgr-sound\main.cpp(4): fatal error C1083: Не удается открыть файл включение: fmod_studio.hpp: No such file or directory
+  fmodsystem.cpp
+d:\repo\mgr-sound\mgr-sound\fmodsystem.h(3): fatal error C1083: Не удается открыть файл включение: fmod_studio.hpp: No such file or directory
+  configparser.cpp
+d:\repo\mgr-sound\mgr-sound\configparser.h(4): fatal error C1083: Не удается открыть файл включение: lua.hpp: No such file or directory
+  common_platform.cpp
+d:\repo\mgr-sound\mgr-sound\common.h(5): fatal error C1083: Не удается открыть файл включение: fmod.h: No such file or directory
+  common.cpp
+d:\repo\mgr-sound\mgr-sound\common.h(5): fatal error C1083: Не удается открыть файл включение: fmod.h: No such file or directory
+  argparser.cpp
+d:\repo\mgr-sound\mgr-sound\argparser.h(4): fatal error C1083: Не удается открыть файл включение: boost/program_options.hpp: No such file or directory
+  Создание кода...

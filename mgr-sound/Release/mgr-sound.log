@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\repo\mgr-sound\mgr-sound\configparser.h(23): warning C4267: return: преобразование из "size_t" в "uint16_t"; возможна потеря данных
+main.cpp(59): error C2059: синтаксическая ошибка: ->
+main.cpp(59): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+main.cpp(179): warning C4244: инициализация: преобразование "uint32_t" в "float", возможна потеря данных
+main.cpp(190): fatal error C1506: неустранимая ошибка, связанная с областью действия блока
